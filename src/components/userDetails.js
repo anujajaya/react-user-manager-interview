@@ -109,7 +109,7 @@ const UserDetails = () => {
           border: 'none',
           backgroundColor: 'red',
           borderRadius: '5px'
-        }}
+        }}cp
           onClick={() => { setCreateModalDelete(true) }}
         >Delete Record</Button>
         <Button
